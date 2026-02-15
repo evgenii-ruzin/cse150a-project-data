@@ -1,0 +1,10 @@
+Month
+DayofMonth
+DayOfWeek
+Marketing_Ariline_Network
+Flight_NUmber_Operating_Airline
+OriginAirportSeqID
+OriginState
+CRSDepTime
+DepDelay
+WeatherDelay

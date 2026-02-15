@@ -1,0 +1,1 @@
+All data is taken from and is owned by [Bureau of Transportation Statistics](https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGK&QO_fu146_anzr=b0-)
